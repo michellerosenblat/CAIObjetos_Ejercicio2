@@ -1,0 +1,6 @@
+C:\Users\Michu\Documents\GitHub\CAIObjetos_Ejercicio2\CAIObjetos_Ejercicio2\Objetos_Ejercicio2Libreria\bin\Debug\Objetos_Ejercicio2Libreria.dll
+C:\Users\Michu\Documents\GitHub\CAIObjetos_Ejercicio2\CAIObjetos_Ejercicio2\Objetos_Ejercicio2Libreria\bin\Debug\Objetos_Ejercicio2Libreria.pdb
+C:\Users\Michu\Documents\GitHub\CAIObjetos_Ejercicio2\CAIObjetos_Ejercicio2\Objetos_Ejercicio2Libreria\obj\Debug\Objetos_Ejercicio2Libreria.csprojAssemblyReference.cache
+C:\Users\Michu\Documents\GitHub\CAIObjetos_Ejercicio2\CAIObjetos_Ejercicio2\Objetos_Ejercicio2Libreria\obj\Debug\Objetos_Ejercicio2Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Michu\Documents\GitHub\CAIObjetos_Ejercicio2\CAIObjetos_Ejercicio2\Objetos_Ejercicio2Libreria\obj\Debug\Objetos_Ejercicio2Libreria.dll
+C:\Users\Michu\Documents\GitHub\CAIObjetos_Ejercicio2\CAIObjetos_Ejercicio2\Objetos_Ejercicio2Libreria\obj\Debug\Objetos_Ejercicio2Libreria.pdb

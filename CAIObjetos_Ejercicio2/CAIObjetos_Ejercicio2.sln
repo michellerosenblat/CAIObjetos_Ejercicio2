@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAIObjetos_Ejercicio2", "CAIObjetos_Ejercicio2\CAIObjetos_Ejercicio2.csproj", "{D08A3F71-988F-4974-83B3-A56267D85089}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objetos_Ejercicio2Libreria", "Objetos_Ejercicio2Libreria\Objetos_Ejercicio2Libreria.csproj", "{75CC8ECA-0CB9-48DD-93F2-78392161B90F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08A3F71-988F-4974-83B3-A56267D85089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08A3F71-988F-4974-83B3-A56267D85089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08A3F71-988F-4974-83B3-A56267D85089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08A3F71-988F-4974-83B3-A56267D85089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CC8ECA-0CB9-48DD-93F2-78392161B90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CC8ECA-0CB9-48DD-93F2-78392161B90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CC8ECA-0CB9-48DD-93F2-78392161B90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CC8ECA-0CB9-48DD-93F2-78392161B90F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2751148-BCC2-4281-8768-E9F05895092A}
+	EndGlobalSection
+EndGlobal
